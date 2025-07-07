@@ -23,6 +23,7 @@
     "noImplicitOverride": true,
     "noPropertyAccessFromIndexSignature": true,
     "noUncheckedIndexedAccess": true,
+    "moduleResolution": "node",
     "baseUrl": "./src",
     "paths": {
       "@/*": ["*"],
