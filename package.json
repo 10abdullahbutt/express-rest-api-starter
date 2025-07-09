@@ -1,5 +1,5 @@
 {
-  "name": "@boolmind/express-rest-api-starter",
+  "name": "@10abdullahbutt/express-rest-api-starter",
   "version": "1.0.0",
   "description": "Professional Express.js REST API starter with TypeScript, MongoDB, and comprehensive tooling",
   "main": "dist/index.js",
